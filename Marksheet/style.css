@@ -1,0 +1,56 @@
+.lineOne{
+    border: 1px solid black ;
+    height: 30px;
+    width: 200px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 40%;
+    margin-top: 40px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+.lineTwoLft{
+    float: left;
+    font-weight: bold;
+}
+.lineTwoRht{
+    margin-left: 1150px;
+    font-weight: bold;  
+}
+.logo{
+    margin-left: 40%;
+    width: 200px;
+    height: 100px;
+}
+.lineThree{
+    font-family: Edwardian Script ITC;
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 25%;
+}
+.lineFour{
+    margin-left: 40%;
+}
+.lineFive{
+    font-weight: bold;
+}
+.lineSix{
+    font-weight: bold;
+}
+
+td, th{
+    border: 1px solid black;
+}
+.rowHead{
+    width: 200px;
+}
+.colCell{
+    width: 30px;
+    height: 30px;
+}
+.rowOneHead
+{
+    width: 200px;
+    height: 200px;
+}
